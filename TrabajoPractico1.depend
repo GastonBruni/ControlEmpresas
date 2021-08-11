@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628720851 source:c:\users\gasto\onedrive\documents\facu gasti\algoritmos y estructuras de datos\trabajo practico 1\trabajopractico1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
